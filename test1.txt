@@ -1,0 +1,31 @@
+N 10
+I 1 "Alice"
+I 2 "Bob"
+I 3 "Charlie"
+I 4 "David"
+I 5 "Eve"
+I 6 "Frank"
+I 7 "Grace"
+I 8 "Hank"
+I 9 "Ivy"
+I 10 "Jack"
+I 11 "Katie"
+I 12 "Liam"
+I 13 "Mia"
+I 14 "Nathan"
+I 15 "Olivia"
+I 16 "Peter"
+I 17 "Quinn"
+I 18 "Rachel"
+I 19 "Sam"
+I 20 "Tom"
+D 2
+D 5
+D 9
+D 13
+D 17
+L 4
+L 6
+L 10
+L 14
+L 18
